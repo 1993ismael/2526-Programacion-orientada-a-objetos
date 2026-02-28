@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "nombre": "Arroz",
+        "cantidad": 50,
+        "precio": 1.2
+    },
+    {
+        "id": "2",
+        "nombre": "Az\u00facar",
+        "cantidad": 30,
+        "precio": 0.9
+    },
+    {
+        "id": "3",
+        "nombre": "Leche",
+        "cantidad": 35,
+        "precio": 1.25
+    },
+    {
+        "id": "4",
+        "nombre": "Aceite",
+        "cantidad": 20,
+        "precio": 2.5
+    },
+    {
+        "id": "5",
+        "nombre": "Fideos",
+        "cantidad": 40,
+        "precio": 0.75
+    }
+]
