@@ -182,7 +182,7 @@ def menu():
             inventario.guardar_archivo()
             print("👋 Sistema cerrado.")
             break
- 
+
         else:
             print("❌ Opción inválida.")
 
